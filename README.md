@@ -25,4 +25,4 @@ Codes for iterated GraphLa (https://github.com/pimauri/it_graphLa)
 
 Codes for iterated Arnoldi-Tikhonov method (https://github.com/davide-furchi/iterated-Arnoldi-Tikhonov)
 
-Sparsity-Enhancing Desaturation algorithm (SE-DESAT) (https://github.com/SabrinaGuastavino/Adaptive_SE_DESAT\0
+Sparsity-Enhancing Desaturation algorithm (SE-DESAT) (https://github.com/SabrinaGuastavino/Adaptive_SE_DESAT\0)
